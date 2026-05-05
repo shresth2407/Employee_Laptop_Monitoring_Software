@@ -1,0 +1,7 @@
+PyQt5
+requests
+pynput
+pyautogui
+opencv-python
+Pillow
+psutil
